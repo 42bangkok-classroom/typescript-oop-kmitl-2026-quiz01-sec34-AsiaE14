@@ -2,7 +2,7 @@
 Create a TypeScript program that reads a string from the command line and reverses it by looping through its characters.
 
 ## 📄 File to Submit
-`Reverse.ts`
+``Reverse.ts
 
 ## 📘 Instructions
 Write a program that:
